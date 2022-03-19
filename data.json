@@ -1,0 +1,9 @@
+[
+  {
+    "nom": "felicite",
+    "age": 10,
+    "race": "chat de goutiere",
+    "aime": ["mange du thon", "grimper aux arbres", "dormir"],
+    "poids": 10
+  }
+]
